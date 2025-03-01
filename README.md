@@ -1,6 +1,6 @@
 # Bi-Model-Aprroach-for-feature-extraction-from-Sensor-data-for-HAV
 
-This particular task invloves exploring various feature extraction methods and hybrid model building to capture features from raw data on its own and using a Library called TSFEL(Time Series Featrure Extraction library) particulary used for extracting Features by domains like **Statistical**,**Temporal** and **Spectral** to understand what the story data telling to us.!
+This particular task invloves exploring various **feature** **extraction** methods and **hybrid** **model** building to capture features from raw data on its own and using a Library called **TSFEL**(**Time  Series Featrure Extraction library)** particulary used for extracting Features by domains like **Statistical**,**Temporal** and **Spectral** to understand what the story data telling to us.!
 
 **About the Data**
 
