@@ -53,7 +53,7 @@ Compared models trained on handcrafted features vs. those using features provide
 To make this comparison meaningful and fair, I followed a structured methodology:
 
 **Custom Feature Engineering with TSFEL:** Instead of relying on pre-extracted features, I generated a unique feature set based on statistical, spectral, and temporal attributes from the raw signals then 
-i trained an **autoencoder** to capture relevent features from extracted data by removing irrelevent dimensions the model well **generalized** on unseen data. 
+i trained an **autoencoder** to capture relevant features from extracted data by removing irrelevant dimensions the model well **generalized** on unseen data. 
 
 **Comparing Handcrafted Features (TSFEL) vs. Author-Extracted Features Performance Comparison**
 
