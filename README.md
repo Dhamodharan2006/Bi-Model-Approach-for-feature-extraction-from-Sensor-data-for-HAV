@@ -8,10 +8,9 @@ The UCI HAR dataset contains smartphone **accelerometer** and **gyroscope** read
 
 **Approaches Used to Solve this task**
 
-So here I used certain aprroaches to finish this task one is Forcing the model to learn and captures important and complex relationship from data by feeding it using a raw sensor data collected over 
-timesteps.It can achivable by using an Hybrid Model approach **1D** **CNN** **+** **Bidirectional** **LSTM** for capturing patterns and important feature from data.
+So here I used certain approaches to finish this task one is Forcing the model to learn and captures important and complex relationship  from data on its own by feeding it using a raw sensor data collected over timesteps.It can achivable by using an Hybrid Model approach **1D** **CNN** **+** **Bidirectional** **LSTM** for capturing temporal dependencies and important patterns from data.
 
-Another approch i have used was extracting the statistical ,temporal,spectral  features from raw time series sensor data using **TSFEL** Library particulary used to process time series data like sensors data and used an **Autoencoder** architecture befor training the  classifier to reduce dimensions by capturing important aspects of data.
+Another approch i have used was extracting the statistical ,temporal,spectral  features from raw time series sensor data using **TSFEL** Library particulary used to process **time** **series** data like sensors data and used an **Autoencoder** architecture befor training the  classifier to reduce dimensions by capturing important aspects of data.
 
 finally trained classifier models like **RF**,**SVM**,**LogisticRegression** using features extracted by authors without any feature extraction techniques and compared the perfomance of each approach!
 
